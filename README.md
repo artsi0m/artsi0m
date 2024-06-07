@@ -1,3 +1,3 @@
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.8; background: url('https://github.com/emacs-tw/awesome-emacs/assets/87656471/2f53f753-0251-405a-8fce-431c4d66cdd1');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://photos.google.com/share/AF1QipO_X5AxSyiGJkqOZ_HbGKDrZCiAIFBtO9YRQp24pC0tjf_At0LiFM9G9eBZKrmfeg/photo/AF1QipPMAuOXktUnHy7GNHtA9I26lrajJMVyyTUWxkAs?key=LUhNXzRXaTBGTGxvNWU3V3lsalVGbmZ3TU5pcWxR');]{x0000}$}
