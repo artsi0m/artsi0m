@@ -2,7 +2,7 @@
 
 | Project                                                               | What I lerned with it                                                  |
 |-----------------------------------------------------------------------|------------------------------------------------------------------------|
-| [6sem_practise](https://github.com/artsi0m/6sem_pracise)              | Developing simple PCB project in KiCAD EDA                             |
+| [6sem_practise](https://github.com/artsi0m/6sem_practise)             | Developing simple PCB project in KiCAD EDA                             |
 | [AutoLISP layersel](https://github.com/artsi0m/autolisp_layersel)     | Extending AutoCAD with custom commands                                 |
 | [argcalc](https://github.com/artsi0m/argcalc)                         | Parsing and evaluation in C using Shunting Yard algorhithm.            |
 | [hosts2zone](https://github.com/artsi0m/hosts2zone)                   | Sometimes it is better to write in scripting language rather than C    |
