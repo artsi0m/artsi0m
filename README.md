@@ -1,4 +1,14 @@
-#### Give me back my MySpace @ Github 😭
+#### Projects and what I learned from them.
 
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/artsi0m/artsi0m/assets/87656471/6f9578e3-8514-48d0-98ed-12efabcb4f17');]{x0000}$}
+| Project                                                               | What I lerned with it                                                  |
+|-----------------------------------------------------------------------|------------------------------------------------------------------------|
+| [6sem_practise](https://github.com/artsi0m/6sem_pracise)              | Developing simple PCB project in KiCAD EDA                             |
+| [AutoLISP layersel](https://github.com/artsi0m/autolisp_layersel)     | Extending AutoCAD with custom commands                                 |
+| [argcalc](https://github.com/artsi0m/argcalc)                         | Parsing and evaluation in C using Shunting Yard algorhithm.            |
+| [hosts2zone](https://github.com/artsi0m/hosts2zone)                   | Sometimes it is better to write in scripting language rather than C    |
+| [org-timeblock](https://github.com/ichernyshovvv/org-timeblock) logo  | Using git-rebase to improve commit history with binary files, Inkscape |
+| [physics labs](https://github.com/artsi0m/physics_labs)               | Showing data using matplotlib library and python                       |
+| [technology diagrams](https://github.com/artsi0m/technology_diagrams) | Writing complex diagrams with graphviz                                 |
+| articles on openbsd-ru.github.io                                      | Writing simple technical guidelines in Russian                         |
+
+
