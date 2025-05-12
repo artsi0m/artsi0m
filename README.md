@@ -2,7 +2,7 @@
 
 | Project                                                                 | What I lerned with it                                                  |
 |-------------------------------------------------------------------------|------------------------------------------------------------------------|
-| [6sem_practise](https://github.com/artsi0m/6sem_practise)               | Developing simple PCB project in KiCAD EDA                             |
+| [6sem_practice](https://github.com/artsi0m/6sem_practice)               | Developing simple PCB project in KiCAD EDA                             |
 | [lab1_segment_display](https://github.com/artsi0m/lab1_segment_display) | Writing assembly code for ATMega 16A MCU on Pinboard2rev2 dev board    |
 | [org-timeblock](https://github.com/ichernyshovvv/org-timeblock) logo    | Using git-rebase to improve commit history with binary files, Inkscape |
 | [AutoLISP layersel](https://github.com/artsi0m/autolisp_layersel)       | Extending AutoCAD with custom commands                                 |
