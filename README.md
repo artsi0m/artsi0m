@@ -11,7 +11,7 @@
 | [technology diagrams](https://github.com/artsi0m/technology_diagrams)   | Writing complex diagrams with plantuml                                 |
 | [hosts2zone](https://github.com/artsi0m/hosts2zone)                     | Sometimes it is better to write in scripting language rather than C    |
 
-#### Tecnhical articles I worte
+#### Tecnhical articles I wrote
 Some of them are in Russian, though.
 
 - [howm & org-drill: Note-taking tool with flashcards combined](https://github.com/artsi0m/posts/blob/master/2025-01-22-195006.org)
