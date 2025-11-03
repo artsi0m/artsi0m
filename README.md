@@ -1,6 +1,6 @@
 #### Projects and what I learned from them.
 
-| Project                                                                 | What I lerned with it                                                  |
+| Project                                                                 | What I learned with it                                                  |
 |-------------------------------------------------------------------------|------------------------------------------------------------------------|
 | [6sem_practice](https://github.com/artsi0m/6sem_practice)               | Developing simple PCB project in KiCAD EDA                             |
 | [lab1_segment_display](https://github.com/artsi0m/lab1_segment_display) | Writing assembly code for ATMega 16A MCU on Pinboard2rev2 dev board    |
