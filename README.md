@@ -11,6 +11,12 @@
 | [technology diagrams](https://github.com/artsi0m/technology_diagrams)   | Writing complex diagrams with plantuml                                 |
 | [hosts2zone](https://github.com/artsi0m/hosts2zone)                     | Sometimes it is better to write in scripting language rather than C    |
 
+#### My PCBs
+
+- [Servo tester](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fartsi0m%2FSST%2Ftree%2Fmaster%2Fpcb)
+- [RS485-RS232 converter](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fartsi0m%2F6sem_practice%2Ftree%2Fmaster%2Fkicad-rs-converter)
+- [Single layer equalizer pcb](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fartsi0m%2FHS_tube_KiCAD)
+
 #### Tecnhical articles I wrote
 Some of them are in Russian, though.
 
